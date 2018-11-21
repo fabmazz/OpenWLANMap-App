@@ -44,22 +44,22 @@
     <string name="h_rank">Rank:</string>
     <string name="c_rank">unknown</string>
     <string name="h_gps">GPS:</string>
-    <string name="c_gps">Waiting for signal...</string>
+    <string name="c_gps">Waiting for signal…</string>
     <string name="h_scan">Scan service:</string>
-    <string name="c_scan">Scanning ...</string>
+    <string name="c_scan">Scanning …</string>
     <string name="h_api_total">APs Total in DB:</string>
     <string name="h_newest_scan">Newest scan:</string>
     <string name="lat">latitude</string>
     <string name="longitude">Longitude</string>
     <string name="setting_support_project">Projects to be supported</string>
     <string name="setting_summary">Show in summary</string>
-    <string name="exist">Kill the application and exist?</string>
-    <string name="yes">Exist</string>
+    <string name="exist">Kill the application and exit?</string>
+    <string name="yes">Exit</string>
     <string name="cancel">Cancel</string>
     <string name="setting_list">Show in access point list</string>
     <string name="stopped">Stopped</string>
     <string name="closeDialog">CLOSE</string>
-    <string name="uploading">Uploading...</string>
+    <string name="uploading">Uploading…</string>
     <string name="upCount">Uploaded count =</string>
     <string name="upRank">Uploaded rank =</string>
     <string name="upNewAp">New aps =</string>
@@ -96,13 +96,13 @@
     <string name="upload_error">Failed with</string>
     <string name="wrong_id_msg">ERROR! You might set your team\'s identifier incorrectly!</string>
     <string name="import_error">ERROR! Something wrong happened while importing account data.</string>
-    <string name="import_ok">Your account is imported sucessfully.</string>
+    <string name="import_ok">Your account is imported successfully.</string>
     <string name="export_error">ERROR! Something wrong happened while exporting account data.</string>
-    <string name="export_ok">Your account is exported sucessfully.</string>
-    <string name="reset_alert">Settings is reseted sucessfully.</string>
+    <string name="export_ok">Your account is exported successfully.</string>
+    <string name="reset_alert">Settings is reseted successfully.</string>
     <string name="recheck">RECHECK</string>
     <string name="upload">UPLOAD</string>
-    <string name="upload_process">Upload in process...</string>
+    <string name="upload_process">Upload in process…</string>
     <string name="upload_sum">UPLOAD SUMMARY</string>
     <string name="upload_m">Uploading</string>
     <string name="ok">OK</string>
